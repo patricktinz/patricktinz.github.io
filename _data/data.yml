@@ -91,7 +91,7 @@ experiences:
 publications:
     title: Scientific Publications
     intro: |
-      In the following my scientific publications are listed:
+      
     papers:
       - title: "Knowledge Management Models for the Smart Factory: A Comparative Analysis of Current Approaches."
         link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
@@ -106,7 +106,7 @@ publications:
 theses:
     title: Theses
     intro: |
-      In the following my theses are listed:
+      
     papers:
       - title: Realisierung eines cloudbasierten Predictive Maintenance Systems mithilfe von statistischer Analyse und maschinellem Lernen für ein physisches Modell
         link: https://accso.de/publikationen/
