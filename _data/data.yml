@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: patrick.tinz@stud.h-da.de
+    email: patrick.tinz@accso.de
     phone: #
     website: tinztwins.de #do not add http://
     linkedin: patricktinz
@@ -131,15 +131,24 @@ skills:
 
       - name: PLC programming
         level: 98%
+      
+      - name: AWS
+        level: 95%
+
+      - name: Unity
+        level: 95%
 
       - name: C#
         level: 95%
 
+      - name: OpenCV
+        level: 90%
+
       - name: HTML & CSS
-        level: 95%
+        level: 80%
 
       - name: Java
-        level: 85%
+        level: 80%
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
