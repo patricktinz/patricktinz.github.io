@@ -1,0 +1,32 @@
+{% assign theses = site.data.data.theses %}
+{% if theses %}
+<section class="section theses-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ theses.title }}
+  </h2>
+
+  {% if theses.intro %}
+  <div class="intro">
+    {{ theses.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for theses in theses.papers %}
+  <div class="item">
+    {% if theses.link %}
+      <li><a href="{{ theses.link }}">{{ theses.title }}</a></li>
+    {% else %}
+      <li>{{ theses.title }}</li>
+    {% endif %}
+    <div class="theses-authors">{{ theses.authors }}</div>
+    <div class="theses-conference">{{ theses.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
