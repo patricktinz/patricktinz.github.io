@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Patrick Tinz, B.Sc., born in 1996, works as a Junior Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. His research areas are Industry 4.0, Augmented Reality and Machine Learning. Currently he is working on predictive maintenance in the context of industry 4.0 driven manufacturing processes. Furthermore I am always open for new projects in this field. Do not hesitate to contact me.
+      I work as a Junior Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research areas are Industry 4.0, Augmented Reality and Machine Learning. Currently, I am working on predictive maintenance in the context of industry 4.0 driven manufacturing processes. Furthermore, I am always open to new projects in these fields. Do not hesitate to contact me.
 
 education:
     - degree: M.Sc. in Data Science
@@ -75,6 +75,14 @@ experiences:
           - Internet of Things
           - Augmented Reality
           - Cloud-Computing
+    
+    - role: Teaching Assistant
+      time: 2017 - 2019
+      company: University of Applied Sciences - Darmstadt
+      details: |
+        Tasks: 
+          - Teaching students in mathematics
+          - Administration of written exams
 
 #projects:
     #title: Projects
@@ -95,60 +103,60 @@ publications:
     papers:
       - title: "Knowledge Management Models for the Smart Factory: A Comparative Analysis of Current Approaches."
         link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
-        authors: Tinz, P., Tinz, J. and Zander, S.
-        conference: In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2019), pages 398-404, (2019)
+        authors: Patrick Tinz, Janik Tinz and Stefan Zander
+        conference: In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2019), pages 398-404, Vienna Austria
 
       - title: Wissensmanagementmodelle für die Industrie 4.0
         link: "https://www.hanser-elibrary.com/doi/abs/10.3139/104.112101"
-        authors: Tinz, J., Tinz, P. and Zander, S.
-        conference: ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb, 114(6), pp.404-407. (2019)
+        authors: Janik Tinz, Patrick Tinz and Stefan Zander
+        conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
 
 theses:
-    title: Theses
+    title: Thesis
     intro: |
       
     papers:
       - title: Realisierung eines cloudbasierten Predictive Maintenance Systems mithilfe von statistischer Analyse und maschinellem Lernen für ein physisches Modell
-        link: https://accso.de/publikationen/
-        authors: Tinz, P.
+        link: "https://accso.de/publikationen/"
+        authors: Patrick Tinz
         conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 98%
+#     toolset:
+#       - name: Python
+#         level: 98%
 
-      - name: R
-        level: 98%
+#       - name: R
+#         level: 98%
 
-      - name: C++ & C
-        level: 98%
+#       - name: C++ & C
+#         level: 98%
 
-      - name: MQTT & OPC UA
-        level: 98%
+#       - name: MQTT & OPC UA
+#         level: 98%
 
-      - name: PLC programming
-        level: 98%
+#       - name: PLC programming
+#         level: 98%
       
-      - name: AWS
-        level: 95%
+#       - name: AWS
+#         level: 95%
 
-      - name: Unity
-        level: 95%
+#       - name: Unity
+#         level: 95%
 
-      - name: C#
-        level: 95%
+#       - name: C#
+#         level: 95%
 
-      - name: OpenCV
-        level: 90%
+#       - name: OpenCV
+#         level: 90%
 
-      - name: HTML & CSS
-        level: 80%
+#       - name: HTML & CSS
+#         level: 80%
 
-      - name: Java
-        level: 80%
+#       - name: Java
+#         level: 80%
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
