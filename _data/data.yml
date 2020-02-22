@@ -1,0 +1,162 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Patrick Tinz
+    tagline: Data Scientist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: patrick.tinz@accso.de
+    phone: #
+    website: tinztwins.de #do not add http://
+    linkedin: patricktinz
+    github: patricktinz
+    gitlab: patricktinz
+    bitbucket:
+    twitter: '@patricktinz'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: German
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Football
+        link:
+      
+      - item: Surfing
+        link:
+
+      - item: Artificial Intelligence
+        link:
+
+      - item: Augmented Reality
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I work as a Junior Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research areas are Industry 4.0, Augmented Reality and Machine Learning. Currently, I am working on predictive maintenance in the context of industry 4.0 driven manufacturing processes. Furthermore, I am always open to new projects in these fields. Do not hesitate to contact me.
+
+education:
+    - degree: M.Sc. in Data Science
+      university: University of Applied Sciences - Darmstadt
+      time: 2019 - present
+      details: |
+          - Statistics
+          - Computer Vision
+    - degree: B.Sc. in Computer Science
+      university: University of Applied Sciences - Darmstadt
+      time: 2015 - 2019
+      details: |
+          - Databases
+          - Computer Graphics
+          - Programming 
+
+experiences:
+    - role: Junior Software Engineer
+      time: 2019 - present
+      company: Accso - Accelerated Solutions GmbH, Darmstadt
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Computer Vision
+          - Internet of Things
+          - Augmented Reality
+          - Cloud-Computing
+    
+    - role: Teaching Assistant
+      time: 2017 - 2019
+      company: University of Applied Sciences - Darmstadt
+      details: |
+        Tasks: 
+          - Teaching students in mathematics
+          - Administration of written exams
+
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+# Harvard Style
+publications:
+    title: Scientific Publications
+    intro: |
+      
+    papers:
+      - title: "Knowledge Management Models for the Smart Factory: A Comparative Analysis of Current Approaches."
+        link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
+        authors: Patrick Tinz, Janik Tinz and Stefan Zander
+        conference: In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2019), pages 398-404, Vienna Austria
+
+      - title: Wissensmanagementmodelle für die Industrie 4.0
+        link: "https://www.hanser-elibrary.com/doi/abs/10.3139/104.112101"
+        authors: Janik Tinz, Patrick Tinz and Stefan Zander
+        conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
+
+theses:
+    title: Thesis
+    intro: |
+      
+    papers:
+      - title: Realisierung eines cloudbasierten Predictive Maintenance Systems mithilfe von statistischer Analyse und maschinellem Lernen für ein physisches Modell
+        link: "https://accso.de/publikationen/"
+        authors: Patrick Tinz
+        conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
+
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Python
+#         level: 98%
+
+#       - name: R
+#         level: 98%
+
+#       - name: C++ & C
+#         level: 98%
+
+#       - name: MQTT & OPC UA
+#         level: 98%
+
+#       - name: PLC programming
+#         level: 98%
+      
+#       - name: AWS
+#         level: 95%
+
+#       - name: Unity
+#         level: 95%
+
+#       - name: C#
+#         level: 95%
+
+#       - name: OpenCV
+#         level: 90%
+
+#       - name: HTML & CSS
+#         level: 80%
+
+#       - name: Java
+#         level: 80%
+
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
