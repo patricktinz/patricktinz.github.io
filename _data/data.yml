@@ -101,6 +101,11 @@ publications:
     intro: |
       
     papers:
+      - title: "Mixed-Reality-Apps für die Industrie 4.0 - SmARt Factory: Planen, Analysieren und Visualisieren"
+        link: "https://kiosk.entwickler.de/windows-developer-magazin/windows-developer-magazin-10-20/mixed-reality-apps-fuer-die-industrie-4-0/"
+        authors: Patrick Tinz and Janik Tinz
+        conference: Windows Developer, 10.2020
+
       - title: "Knowledge Management Models for the Smart Factory: A Comparative Analysis of Current Approaches."
         link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
         authors: Patrick Tinz, Janik Tinz and Stefan Zander
