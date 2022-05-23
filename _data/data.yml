@@ -52,7 +52,7 @@ career-profile:
 education:
     - degree: M.Sc. in Data Science
       university: University of Applied Sciences - Darmstadt
-      time: 2019 - present
+      time: 2019 - 2022
       details: |
           - Machine Learning
           - Statistics
@@ -130,10 +130,16 @@ theses:
     intro: |
       
     papers:
+      - title: Realisierung eines anpassungsfähigen Deep Learning Modells für die Qualitätskontrolle im Spritzgussprozess
+        link:
+        authors: Patrick Tinz
+        conference: University of Applied Sciences - Darmstadt, Department Mathematics and Natural Sciences (2022)         
+      
       - title: Realisierung eines cloudbasierten Predictive Maintenance Systems mithilfe von statistischer Analyse und maschinellem Lernen für ein physisches Modell
         link: "https://accso.de/publikationen/"
         authors: Patrick Tinz
         conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
+
 
 # skills:
 #     title: Skills &amp; Proficiency
