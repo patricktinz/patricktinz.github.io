@@ -19,7 +19,7 @@ sidebar:
     github: patricktinz
     gitlab: patricktinz
     bitbucket:
-    twitter: '@patricktinz'
+    twitter: patricktinz
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -41,15 +41,22 @@ sidebar:
       - item: Artificial Intelligence
         link:
 
-      - item: Augmented Reality
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I work as a Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research areas are Industry 4.0, Augmented Reality and Machine Learning. Currently, I am working on predictive maintenance in the context of industry 4.0 driven manufacturing processes. Furthermore, I am always open to new projects in these fields. Do not hesitate to contact me.
+      I am a Data Scientist and Software Engineer. My research areas are topics in the financial sector with a focus on Deep Learning. Furthermore, I am always open to new projects in these fields. Do not hesitate to contact me.
 
 education:
+    - degree: MBA in Finance
+      university: AIM - Austrian Institute of Management - Burgenland
+      time: 2023 - present
+      details: |
+          - Private Equity and Venture Capital
+          - Investments
+          - Green Finance
     - degree: M.Sc. in Data Science
       university: University of Applied Sciences - Darmstadt
       time: 2019 - 2022
@@ -66,8 +73,16 @@ education:
           - Programming 
 
 experiences:
+    - role: Data Science Blogger
+      time: 2023 - present
+      company: Tinz Twins
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Deep Learning
+          - Content Creation
     - role: Software Engineer
-      time: 2021 - present
+      time: 2021 - 2023
       company: Accso - Accelerated Solutions GmbH, Darmstadt
       details: |
         Tasks: 
@@ -110,6 +125,36 @@ publications:
     intro: |
       
     papers:
+      - title: "Kriterien für die Visualisierung der Funktionsweise von Convolutional Neural Networks"
+        link: "https://www.grin.com/document/1041174"
+        authors: Patrick Tinz
+        conference: GRIN Verlag, 2021
+
+      - title: "Einsatz von Key Performance Indikatoren im Controlling von Data Science Projekten"
+        link: "https://www.grin.com/document/1041311"
+        authors: Patrick Tinz
+        conference: GRIN Verlag, 2021
+
+      - title: "Realisierung eines Beleuchtungsmodells mithilfe von Ray-Tracing"
+        link: "https://www.grin.com/document/1041332"
+        authors: Patrick Tinz and Janik Tinz
+        conference: GRIN Verlag, 2021
+
+      - title: "Vermessung von Objekten ohne Referenzobjekt. Literatur-Review"
+        link: "https://www.grin.com/document/1036831"
+        authors: Patrick Tinz and Janik Tinz
+        conference: GRIN Verlag, 2020
+
+      - title: "Vermessung von spiegelnden Werkzeugen mithilfe von OpenCV"
+        link: "https://www.grin.com/document/1036832"
+        authors: Janik Tinz and Patrick Tinz
+        conference: GRIN Verlag, 2020
+
+      - title: "Zur Lokalisation von Gesichtern. Echtzeitdetektion in Drohnenaufnahmen"
+        link: "https://www.grin.com/document/1022608"
+        authors: Janik Tinz and Patrick Tinz
+        conference: GRIN Verlag, 2020
+
       - title: "Mixed-Reality-Apps für die Industrie 4.0 - SmARt Factory: Planen, Analysieren und Visualisieren"
         link: "https://kiosk.entwickler.de/windows-developer-magazin/windows-developer-magazin-10-20/mixed-reality-apps-fuer-die-industrie-4-0/"
         authors: Patrick Tinz and Janik Tinz
@@ -125,6 +170,10 @@ publications:
         authors: Janik Tinz, Patrick Tinz and Stefan Zander
         conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
 
+      - title: Die Rolle des Wissensmanagements in der Industrie 4.0
+        link: "https://www.grin.com/document/1022612"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2019"
 theses:
     title: Thesis
     intro: |
@@ -136,7 +185,7 @@ theses:
         conference: University of Applied Sciences - Darmstadt, Department Mathematics and Natural Sciences (2022)         
       
       - title: Realisierung eines cloudbasierten Predictive Maintenance Systems mithilfe von statistischer Analyse und maschinellem Lernen für ein physisches Modell
-        link: "https://accso.de/publikationen/"
+        link: 
         authors: Patrick Tinz
         conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
 
