@@ -73,7 +73,7 @@ education:
           - Programming 
 
 experiences:
-    - role: Data Science Blogger
+    - role: Data Scientist and Software Engineer
       time: 2023 - present
       company: Tinz Twins
       details: |
@@ -125,33 +125,33 @@ publications:
     intro: |
       
     papers:
-      - title: "Kriterien für die Visualisierung der Funktionsweise von Convolutional Neural Networks"
-        link: "https://www.grin.com/document/1041174"
+      - title: "Kriterien für die Visualisierung der Funktionsweise von Convolutional Neural Networks*"
+        link: "https://www.grin.com/document/1041174/?partner_id=5083847"
         authors: Patrick Tinz
         conference: GRIN Verlag, 2021
 
-      - title: "Einsatz von Key Performance Indikatoren im Controlling von Data Science Projekten"
-        link: "https://www.grin.com/document/1041311"
+      - title: "Einsatz von Key Performance Indikatoren im Controlling von Data Science Projekten*"
+        link: "https://www.grin.com/document/1041311/?partner_id=5083847"
         authors: Patrick Tinz
         conference: GRIN Verlag, 2021
 
-      - title: "Realisierung eines Beleuchtungsmodells mithilfe von Ray-Tracing"
-        link: "https://www.grin.com/document/1041332"
+      - title: "Realisierung eines Beleuchtungsmodells mithilfe von Ray-Tracing*"
+        link: "https://www.grin.com/document/1041332/?partner_id=5083847"
         authors: Patrick Tinz and Janik Tinz
         conference: GRIN Verlag, 2021
 
-      - title: "Vermessung von Objekten ohne Referenzobjekt. Literatur-Review"
-        link: "https://www.grin.com/document/1036831"
+      - title: "Vermessung von Objekten ohne Referenzobjekt. Literatur-Review*"
+        link: "https://www.grin.com/document/1036831/?partner_id=5083847"
         authors: Patrick Tinz and Janik Tinz
         conference: GRIN Verlag, 2020
 
-      - title: "Vermessung von spiegelnden Werkzeugen mithilfe von OpenCV"
-        link: "https://www.grin.com/document/1036832"
+      - title: "Vermessung von spiegelnden Werkzeugen mithilfe von OpenCV*"
+        link: "https://www.grin.com/document/1036832/?partner_id=5083848"
         authors: Janik Tinz and Patrick Tinz
         conference: GRIN Verlag, 2020
 
-      - title: "Zur Lokalisation von Gesichtern. Echtzeitdetektion in Drohnenaufnahmen"
-        link: "https://www.grin.com/document/1022608"
+      - title: "Zur Lokalisation von Gesichtern. Echtzeitdetektion in Drohnenaufnahmen*"
+        link: "https://www.grin.com/document/1022608/?partner_id=5083848"
         authors: Janik Tinz and Patrick Tinz
         conference: GRIN Verlag, 2020
 
@@ -170,8 +170,8 @@ publications:
         authors: Janik Tinz, Patrick Tinz and Stefan Zander
         conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
 
-      - title: Die Rolle des Wissensmanagements in der Industrie 4.0
-        link: "https://www.grin.com/document/1022612"
+      - title: Die Rolle des Wissensmanagements in der Industrie 4.0*
+        link: "https://www.grin.com/document/1022612/?partner_id=5083847"
         authors: Patrick Tinz and Janik Tinz
         conference: "GRIN Verlag, 2019"
 theses:
@@ -227,5 +227,7 @@ theses:
 #       - name: Java
 #         level: 80%
 
-#footer: >
-    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    <p font-size="27rem" style="color:grey"><a href="https://tinztwins.de/advertisement/">*Affiliate-Link / Anzeige</a></p>
+
+# Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
