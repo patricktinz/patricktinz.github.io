@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: #
     phone: #
-    website: tinztwins.de #do not add http://
+    website: tinztwinshub.com #do not add http://
     linkedin: patricktinz
     github: patricktinz
     gitlab: patricktinz
@@ -35,10 +35,7 @@ sidebar:
       - item: Football
         link:
       
-      - item: Surfing
-        link:
-
-      - item: Artificial Intelligence
+      - item: E-Mobility
         link:
 
       - item: Travel
@@ -73,13 +70,27 @@ education:
           - Programming 
 
 experiences:
-    - role: Data Scientist and Software Engineer
-      time: 2023 - present
-      company: Tinz Twins
+    - role: Financial Analyst
+      time: 2024 - present
+      company: Tinz Twins Invest
       details: |
         Tasks: 
-          - Data Analytics
-          - Deep Learning
+          - Stock Analysis
+          - Content Creation
+    - role: Co-Founder
+      time: 2023 - present
+      company: Towards Finance
+      details: |
+        Tasks: 
+          - Investment Research
+          - Online Business
+    - role: Data Scientist and Software Engineer
+      time: 2023 - present
+      company: Tinz Twins Hub
+      details: |
+        Tasks: 
+          - Machine Learning
+          - Software Engineering
           - Content Creation
     - role: Software Engineer
       time: 2021 - 2023
@@ -228,6 +239,6 @@ theses:
 #         level: 80%
 
 footer: >
-    <p font-size="27rem" style="color:grey"><a href="https://tinztwins.de/advertisement/">*Affiliate-Link / Anzeige</a></p>
+    <p font-size="27rem" style="color:grey"><a href="https://tinztwinshub.com/advertisement/">*AD | Affiliate-Link</a></p>
 
 # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
