@@ -14,12 +14,15 @@ sidebar:
     # Sidebar links
     email: #
     phone: #
+    website: towardsfinance.com
     website: tinztwinshub.com #do not add http://
+    website: tinztwinsinvest.de
+    website: tinztwins.com
     linkedin: patricktinz
     github: patricktinz
-    gitlab: patricktinz
+    # gitlab: patricktinz
     bitbucket:
-    twitter: patricktinz
+    #twitter: patricktinz
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -48,8 +51,8 @@ career-profile:
 
 education:
     - degree: MBA in Finance
-      university: AIM - Austrian Institute of Management - Burgenland
-      time: 2023 - present
+      university: University of Applied Sciences - Burgenland
+      time: 2024 - 2026
       details: |
           - Private Equity and Venture Capital
           - Investments
@@ -72,21 +75,26 @@ education:
 experiences:
     - role: Financial Analyst
       time: 2024 - present
-      company: Tinz Twins Invest
+      company: Tinz Twins Invest -
+      company_website: tinztwinsinvest.de
       details: |
         Tasks: 
           - Stock Analysis
+          - Entrepreneurship
           - Content Creation
     - role: Co-Founder
       time: 2023 - present
-      company: Towards Finance
+      company: Towards Finance -
+      company_website: towardsfinance.com
       details: |
         Tasks: 
-          - Investment Research
+          - Success Mindset
           - Online Business
+          - Investment Research
     - role: Data Scientist and Software Engineer
       time: 2023 - present
-      company: Tinz Twins Hub
+      company: Tinz Twins Hub -
+      company_website: tinztwinshub.com
       details: |
         Tasks: 
           - Machine Learning
